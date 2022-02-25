@@ -1,8 +1,2 @@
-# My-repsitory
-Primul meu proiect. Bla bla blablabla Cum am facut
-
-
-# titlul doi
-alte informatii
-
-acesta este
+# Scope
+This is where all the projects for college are stored.
