@@ -1,0 +1,7 @@
+Acesta este un mesaj test
+
+Ma aflu pe a 3 a linie a acestui fisier
+aceasta este a 4 a
+
+
+sunt doua randuri goale intre acesta si cel precedent
